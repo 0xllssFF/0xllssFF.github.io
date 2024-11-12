@@ -25,7 +25,7 @@ Publications
 - **[S&P’25]** **Shaofei Li**, Ziqi Zhang, Haomin Jia, Yao Guo, Xiangqun Chen, Ding Li. "Query Provenance Analysis: Efficient and Robust Defense against Query-based Black-box Attacks". (CCF-A, Acceptance rate of cycle 1: 106/739=14.3%) [[paper]](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a072/21B7RgFCieQ) [[code]](https://github.com/0xllssFF/QPA)
 
 - **[NDSS’24]** **Shaofei Li**, Feng Dong, Ding Li, Xusheng Xiao, Haoyu Wang, Fei Shao, Jiedong Chen, Yao Guo, Xiangqun
-Chen. ”NODLINK: An Online System for Fine-Grained APT Attack Detection and Investigation”. (CCF-A, Acceptance rate: 140/694=20.2%)[[paper]] (https://www.ndss-symposium.org/wp-content/uploads/2024-204-paper.pdf) [[code]](https://github.com/PKU-ASAL/Simulated-Data/tree/main) [[slides]](https://www.ndss-symposium.org/wp-content/uploads/2024-204-slides.pdf)
+Chen. ”NODLINK: An Online System for Fine-Grained APT Attack Detection and Investigation”. (CCF-A, Acceptance rate: 140/694=20.2%)[[paper]](https://www.ndss-symposium.org/wp-content/uploads/2024-204-paper.pdf) [[code]](https://github.com/PKU-ASAL/Simulated-Data/tree/main) [[slides]](https://www.ndss-symposium.org/wp-content/uploads/2024-204-slides.pdf)
 
 - **[CCS’23]** Feng Dong, **Shaofei Li**, Peng Jiang, Ding Li, Haoyu Wang, Liangyi Huang, Xusheng Xiao, Jiedong Chen,
 Xiapu Luo, Yao Guo, Xiangqun Chen. “Are we there yet? An Industrial Viewpoint on Provenance-based
