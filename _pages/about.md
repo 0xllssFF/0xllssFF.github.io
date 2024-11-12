@@ -45,4 +45,4 @@ Teaching Assistant, Frontier of System Software Research, PKU Spring 2023
 
 Teaching Assistant, Operating System, PKU Spring 2022
 
-Introduction to Computing, PKU Fall 2021
+Teaching Assistant, Introduction to Computing, PKU Fall 2021
