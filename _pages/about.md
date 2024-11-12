@@ -31,7 +31,7 @@ Chen. ”NODLINK: An Online System for Fine-Grained APT Attack Detection and Inv
 Xiapu Luo, Yao Guo, Xiangqun Chen. “Are we there yet? An Industrial Viewpoint on Provenance-based
 Endpoint Detection and Response Tools.” (CCF-A, Acceptance rate: 158/795=19.9%) [[paper]](https://dl.acm.org/doi/abs/10.1145/3576915.3616580)
 
-- **[TOSEM’23]** Xuanzhe Liu, Chengxu Yang, Ding Li, Yuhan Zhou, Shaofei Li, Jiali Chen, Zhenpeng Chen ”Adonis: Practical
+- **[TOSEM’23]** Xuanzhe Liu, Chengxu Yang, Ding Li, Yuhan Zhou, **Shaofei Li**, Jiali Chen, Zhenpeng Chen ”Adonis: Practical
 Control Flow Recovery through OS-Level Traces.” (CCF-A) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3607187) 
  [[code]](https://github.com/PKU-Chengxu/Adonis)
 
