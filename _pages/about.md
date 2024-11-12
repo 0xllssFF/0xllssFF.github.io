@@ -11,6 +11,7 @@ Hi, I'm Shaofei Li. I'm currently a 4th-year Ph.D. student in the Department of 
 
 My research interests include cybersecurity, system security and AI security. My research focuses on developing detection and defense mechanisms for various security threats in the real world systems. I have published several papers in top-tier security conferences and transactions such as S&P, NDSS, CCS and TOSEM. 
 
+In my spare time, I enjoy playing basketball, badminton and cycling. I'm a member of the men’s basketball teams and badmiton teams for the CS departments at Peking University. And I have been a member of the [Cycling Association of Peking University(CAPU)](https://chexie.net/#main) since 2018. I participated in the summer expedition practice group's long-distance cycling of more than 2000km from Jiayuguan to Chengdu [[video]](https://www.bilibili.com/video/BV14b411N79B/?spm_id_from=333.337.search-card.all.click&vd_source=51525784685e693bb27951657c05023d).
 
 Research Interests
 ======
