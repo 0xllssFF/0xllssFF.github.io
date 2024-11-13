@@ -35,6 +35,13 @@ Endpoint Detection and Response Tools.” (CCF-A, Acceptance rate: 158/795=19.9%
 Control Flow Recovery through OS-Level Traces.” (CCF-A) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3607187) 
  [[code]](https://github.com/PKU-Chengxu/Adonis)
 
+Internship Experience
+======
+
+Meituan, Beijing, China (Jun, 2024, -- Sep, 2024)
+
+ByteDance, Beijing, China (Jul, 2020 -- Nov, 2020)
+
 
 Teaching Experience
 ======
