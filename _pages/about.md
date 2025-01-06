@@ -39,9 +39,9 @@ Control Flow Recovery through OS-Level Traces.” (CCF-A) [[paper]](https://dl.a
 Invited Talks & Presentations
 ======
 
-West Lake Forum on Cyberspace Security, Hangzhou, China, January, 2025. Query Provenance Analysis: Efficient and Robust Defense against Query-based Black-box Attacks. (Best Poster Presentation Nomination)
+- West Lake Forum on Cyberspace Security, Hangzhou, China, January, 2025. Query Provenance Analysis: Efficient and Robust Defense against Query-based Black-box Attacks. (Best Poster Presentation Nomination)
 
-Shanghai Jiao Tong University 2024 International Young Scholars Forum - Cyberspace Security Forum, December, 2024. Provenance-based System Security Protection.
+- Shanghai Jiao Tong University 2024 International Young Scholars Forum - Cyberspace Security Forum, December, 2024. Provenance-based System Security Protection.
 
 
 Internship Experience
