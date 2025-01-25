@@ -29,7 +29,6 @@ Chen. ”NODLINK: An Online System for Fine-Grained APT Attack Detection and Inv
 
 Other Publications
 ======
-
 - **[NDSS’25W]** Anis Yusof, **Shaofei Li**, Kawatra Arshdeep Singh, Ding Li, Ee-Chien Chang, Zhenkai Liang. "From Observations to Insights: Constructing Effective Cyberattack Provenance with PROVCON". [[code]](https://github.com/anisyusof-sc/provcon/)
 
 - **[CCS’23]** Feng Dong, **Shaofei Li**, Peng Jiang, Ding Li, Haoyu Wang, Liangyi Huang, Xusheng Xiao, Jiedong Chen,
