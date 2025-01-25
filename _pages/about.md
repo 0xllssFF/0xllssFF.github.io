@@ -19,13 +19,18 @@ Research Interests
 2. **Security for AI System**: Black-box Attack Detection [S&P'25]
 3. **Software Security**: Control Flow Analysis [TOSEM'23]
 
-
-Publications
+Selected Publications
 ======
 - **[S&P’25]** **Shaofei Li**, Ziqi Zhang, Haomin Jia, Yao Guo, Xiangqun Chen, Ding Li. "Query Provenance Analysis: Efficient and Robust Defense against Query-based Black-box Attacks". (CCF-A, Acceptance rate of cycle 1: 106/739=14.3%) [[paper]](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a072/21B7RgFCieQ) [[code]](https://github.com/0xllssFF/QPA)
 
 - **[NDSS’24]** **Shaofei Li**, Feng Dong, Ding Li, Xusheng Xiao, Haoyu Wang, Fei Shao, Jiedong Chen, Yao Guo, Xiangqun
 Chen. ”NODLINK: An Online System for Fine-Grained APT Attack Detection and Investigation”. (CCF-A, Acceptance rate: 140/694=20.2%)[[paper]](https://www.ndss-symposium.org/wp-content/uploads/2024-204-paper.pdf) [[code]](https://github.com/PKU-ASAL/Simulated-Data/tree/main) [[slides]](https://www.ndss-symposium.org/wp-content/uploads/2024-204-slides.pdf)
+
+
+Publications
+======
+
+- **[NDSS’25W]** Anis Yusof, **Shaofei Li**, Kawatra Arshdeep Singh, Ding Li, Ee-Chien Chang, Zhenkai Liang. "From Observations to Insights: Constructing Effective Cyberattack Provenance with PROVCON". [[code]](https://github.com/anisyusof-sc/provcon/)
 
 - **[CCS’23]** Feng Dong, **Shaofei Li**, Peng Jiang, Ding Li, Haoyu Wang, Liangyi Huang, Xusheng Xiao, Jiedong Chen,
 Xiapu Luo, Yao Guo, Xiangqun Chen. “Are we there yet? An Industrial Viewpoint on Provenance-based
@@ -42,6 +47,11 @@ Invited Talks & Presentations
 - West Lake Forum on Cyberspace Security, Hangzhou, China, January, 2025. Query Provenance Analysis: Efficient and Robust Defense against Query-based Black-box Attacks. (Best Poster Presentation Nomination)
 
 - Shanghai Jiao Tong University 2024 International Young Scholars Forum - Cyberspace Security Forum, December, 2024. Provenance-based System Security Protection.
+
+
+Academic Services
+======
+Reviewers: TDSC'25, TNNLS'24
 
 
 Internship Experience
