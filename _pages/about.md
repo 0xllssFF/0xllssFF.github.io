@@ -27,7 +27,7 @@ Selected Publications
 Chen. ”NODLINK: An Online System for Fine-Grained APT Attack Detection and Investigation”. (CCF-A, Acceptance rate: 140/694=20.2%)[[paper]](https://www.ndss-symposium.org/wp-content/uploads/2024-204-paper.pdf) [[code]](https://github.com/PKU-ASAL/Simulated-Data/tree/main) [[slides]](https://www.ndss-symposium.org/wp-content/uploads/2024-204-slides.pdf)
 
 
-Publications
+Other Publications
 ======
 
 - **[NDSS’25W]** Anis Yusof, **Shaofei Li**, Kawatra Arshdeep Singh, Ding Li, Ee-Chien Chang, Zhenkai Liang. "From Observations to Insights: Constructing Effective Cyberattack Provenance with PROVCON". [[code]](https://github.com/anisyusof-sc/provcon/)
