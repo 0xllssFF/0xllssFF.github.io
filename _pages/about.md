@@ -50,7 +50,7 @@ Invited Talks & Presentations
 
 Academic Services
 ======
-Reviewers: TDSC'25, TNNLS'24
+Reviewers: TDSC'25, TIFS'24, TNNLS'24
 
 
 Internship Experience
