@@ -29,7 +29,7 @@ Chen. ”NODLINK: An Online System for Fine-Grained APT Attack Detection and Inv
 
 Other Publications
 ======
-- **[TOSEM’25]** Junlin Liu, Mengyu Yao, **Shaofei Li**, Dingyu Yang, Zheshun Wu, Xiaojun Qu, Ziqi Zhang, Ding Li, Yao Guo, Xiangqun Chen. "Not All Exceptions Are Created Equal: Triaging Error Logs in Real World Enterprises"
+- **[TOSEM’25]** Junlin Liu, Mengyu Yao, **Shaofei Li**, Dingyu Yang, Zheshun Wu, Xiaojun Qu, Ziqi Zhang, Ding Li, Yao Guo, Xiangqun Chen. "Not All Exceptions Are Created Equal: Triaging Error Logs in Real World Enterprises" (CCF-A)
 
 - **[NDSS’25W]** Anis Yusof, **Shaofei Li**, Kawatra Arshdeep Singh, Ding Li, Ee-Chien Chang, Zhenkai Liang. "From Observations to Insights: Constructing Effective Cyberattack Provenance with PROVCON". [[code]](https://github.com/anisyusof-sc/provcon/)
 
