@@ -44,11 +44,17 @@ Control Flow Recovery through OS-Level Traces.” (CCF-A) [[paper]](https://dl.a
 
 Invited Talks & Presentations
 ======
+- CECS Seminar, University of California, Irvine, USA, May, 2025. Cast Provenance Analysis to AI Systems: Efficient and Robust Defense against Query-based Black-box Attacks. [[link]](https://www.cecs.uci.edu/event/efficient-and-robust-defense-against-query-based-black-box-attacks/)
+
+- UCLA Security Lab Group Meeting, University of California, Los Angeles, USA, May, 2025. Cast Provenance Analysis to AI Systems: Efficient and Robust Defense against Query-based Black-box Attacks.
+
+- 2025 IEEE Symposium on Security and Privacy (S&P'25), San Francisco, USA, May, 2025. Query Provenance Analysis: Efficient and Robust Defense against Query-based Black-box Attacks.
 
 - West Lake Forum on Cyberspace Security, Hangzhou, China, January, 2025. Query Provenance Analysis: Efficient and Robust Defense against Query-based Black-box Attacks. (Best Poster Presentation Nomination)
 
-- Shanghai Jiao Tong University 2024 International Young Scholars Forum - Cyberspace Security Forum, December, 2024. Provenance-based System Security Protection.
+- Shanghai Jiao Tong University 2024 International Young Scholars Forum - Cyberspace Security Forum, December, 2024. Provenance-based System Security Protection. [[link]](https://news.sjtu.edu.cn/jdyw/20250116/206694.html)
 
+- 2024 Network and Distributed System Security Symposium (NDSS'24), San Diego, USA, February, 2024. NODLINK: An Online System for Fine-Grained APT Attack Detection and Investigation.
 
 Academic Services
 ======
