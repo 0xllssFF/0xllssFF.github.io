@@ -60,6 +60,10 @@ Academic Services
 ======
 Reviewers: TDSC'25, TIFS'24, TNNLS'24
 
+External Reviewer: RAID'25
+
+AEC: CCS'25
+
 
 Internship Experience
 ======
