@@ -21,15 +21,19 @@ Research Interests
 
 Selected Publications
 ======
+- **[S&P’26]** **Shaofei Li**, Xiao Han, Ziqi Zhang, Minyao Hua, Shuli Gao, Zhenkai Liang, Yao Guo, Xiangqun Chen, Ding Li. "PromoGuardian: Detecting Promotion Abuse Fraud with Multi-Relation Fused Graph Neural Networks". (CCF-A, Acceptance rate of cycle 1: 118/925=12.8\%)
+
 - **[S&P’25]** **Shaofei Li**, Ziqi Zhang, Haomin Jia, Yao Guo, Xiangqun Chen, Ding Li. "Query Provenance Analysis: Efficient and Robust Defense against Query-based Black-box Attacks". (CCF-A, Acceptance rate of cycle 1: 106/739=14.3%) [[paper]](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a072/21B7RgFCieQ) [[code]](https://github.com/0xllssFF/QPA)
 
 - **[NDSS’24]** **Shaofei Li**, Feng Dong, Ding Li, Xusheng Xiao, Haoyu Wang, Fei Shao, Jiedong Chen, Yao Guo, Xiangqun
 Chen. ”NODLINK: An Online System for Fine-Grained APT Attack Detection and Investigation”. (CCF-A, Acceptance rate: 140/694=20.2%)[[paper]](https://www.ndss-symposium.org/wp-content/uploads/2024-204-paper.pdf) [[code]](https://github.com/PKU-ASAL/Simulated-Data/tree/main) [[slides]](https://www.ndss-symposium.org/wp-content/uploads/2024-204-slides.pdf)
 
 
+
+
 Other Publications
 ======
-- **[NDSS’26]** Yuhan Meng, **Shaofei Li**, Jiaping Gui, Peng Jiang, Ding Li. "KnowHow: Automatically Applying High-Level CTI Knowledge for  Interpretable and Accurate Provenance Analysis". (CCF-A)\\
+- **[NDSS’26]** Yuhan Meng, **Shaofei Li**, Jiaping Gui, Peng Jiang, Ding Li. "KnowHow: Automatically Applying High-Level CTI Knowledge for  Interpretable and Accurate Provenance Analysis". (CCF-A)
 
 - **[TOSEM’25]** Junlin Liu, Mengyu Yao, **Shaofei Li**, Dingyu Yang, Zheshun Wu, Xiaojun Qu, Ziqi Zhang, Ding Li, Yao Guo, Xiangqun Chen. "Not All Exceptions Are Created Equal: Triaging Error Logs in Real World Enterprises" (CCF-A)
 
