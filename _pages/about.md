@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Shaofei Li. I'm currently a 4th-year Ph.D. student in the Department of Computer Science at Peking University, advised by Prof. [Ding Li](https://marapapman.github.io/), Prof. [Yao Guo](https://yaoguopku.github.io/) and Prof. [Xiangqun Chen](https://dblp.org/pid/49/628.html). I earned my B.S. degree from the School of Electronics Engineering and Computer Science (EECS) at Peking University in 2021. I'm now a visiting PhD student at the School of Computer in National University of Singapore, advised by Prof. [Zhenkai Liang](https://www.comp.nus.edu.sg/~liangzk/).
+Hi, I'm Shaofei Li. I'm currently a final year Ph.D. student in the Department of Computer Science at Peking University, advised by Prof. [Ding Li](https://marapapman.github.io/), Prof. [Yao Guo](https://yaoguopku.github.io/) and Prof. [Xiangqun Chen](https://dblp.org/pid/49/628.html). I earned my B.S. degree from the School of Electronics Engineering and Computer Science (EECS) at Peking University in 2021. I'm now a visiting PhD student at the School of Computer in National University of Singapore, advised by Prof. [Zhenkai Liang](https://www.comp.nus.edu.sg/~liangzk/).
 
 My research interests include cybersecurity, system security and AI security. My research focuses on developing detection and defense mechanisms for various security threats in the real world systems. I have published several papers in top-tier security conferences and transactions such as S&P, NDSS, CCS and TOSEM. 
 
@@ -15,9 +15,10 @@ In my spare time, I enjoy playing basketball, badminton and cycling. I'm a membe
 
 Research Interests
 ======
-1. **Cybersecurity**: Advanced Persistent Threats Detection [CCS'23, NDSS'24]
+1. **Cybersecurity**: Advanced Persistent Threats Detection [CCS'23, NDSS'24, NDSS’25W, NDSS'26]
 2. **Security for AI System**: Black-box Attack Detection [S&P'25]
-3. **Software Security**: Control Flow Analysis [TOSEM'23]
+3. **Financial Security**: Promotion Abuse Fraud Detection [S&P'26]
+4. **Software Security**: Control Flow Analysis [TOSEM'23]
 
 Selected Publications
 ======
