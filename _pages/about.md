@@ -22,7 +22,7 @@ Research Interests
 
 Selected Publications
 ======
-- **[S&P’26]** **Shaofei Li**, Xiao Han, Ziqi Zhang, Minyao Hua, Shuli Gao, Zhenkai Liang, Yao Guo, Xiangqun Chen, Ding Li. "PromoGuardian: Detecting Promotion Abuse Fraud with Multi-Relation Fused Graph Neural Networks". (CCF-A, Acceptance rate of cycle 1: 118/925=12.8\%) [[arxiv]](https://arxiv.org/abs/2510.12652) [[code]](https://github.com/0xllssFF/PromoGuardian) [[data]](https://osf.io/rasje/overview)
+- **[S&P’26]** **Shaofei Li**, Xiao Han, Ziqi Zhang, Minyao Hua, Shuli Gao, Zhenkai Liang, Yao Guo, Xiangqun Chen, Ding Li. "PromoGuardian: Detecting Promotion Abuse Fraud with Multi-Relation Fused Graph Neural Networks". (CCF-A, Acceptance rate of cycle 1: 118/925=12.8%) [[arxiv]](https://arxiv.org/abs/2510.12652) [[code]](https://github.com/0xllssFF/PromoGuardian) [[data]](https://osf.io/rasje/overview)
 
 - **[S&P’25]** **Shaofei Li**, Ziqi Zhang, Haomin Jia, Yao Guo, Xiangqun Chen, Ding Li. "Query Provenance Analysis: Efficient and Robust Defense against Query-based Black-box Attacks". (CCF-A, Acceptance rate of cycle 1: 106/739=14.3%) [[paper]](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a072/21B7RgFCieQ) [[code]](https://github.com/0xllssFF/QPA)
 
@@ -90,3 +90,13 @@ Teaching Assistant, Frontier of System Software Research, PKU Spring 2023
 Teaching Assistant, Operating System, PKU Spring 2022
 
 Teaching Assistant, Introduction to Computing, PKU Fall 2021
+
+
+Honors and Awards
+======
+Top Ten Academic Awards, School of Computer Science, Peking University, 2025
+
+China Scholarship Council (CSC) scholarship, China Scholarship Council, 2024 - 2025
+
+Peking University Excellent Research Award, Peking University, 2024
+
