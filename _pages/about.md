@@ -34,7 +34,9 @@ Chen. ”NODLINK: An Online System for Fine-Grained APT Attack Detection and Inv
 
 Other Publications
 ======
-- **[NDSS’26]** Yuhan Meng, **Shaofei Li**, Jiaping Gui, Peng Jiang, Ding Li. "KnowHow: Automatically Applying High-Level CTI Knowledge for  Interpretable and Accurate Provenance Analysis". (CCF-A)
+- **[NDSS’26]** Yuhan Meng, **Shaofei Li**, Jiaping Gui, Peng Jiang, Ding Li. "KnowHow: Automatically Applying High-Level CTI Knowledge for  Interpretable and Accurate Provenance Analysis". (CCF-A) [[paper]](https://www.ndss-symposium.org/wp-content/uploads/2026-s199-paper.pdf) [[code]](https://github.com/myh0301/KNOWHOW)
+
+- **[NDSS’26W]** **Shaofei Li**, Jiandong Jin, Hanlin Jiang, Yi Huang, Yifei Bao, Yuhan Meng, Fengwei Hong, Zheng Huang, Peng Jiang, Ding Li. "SysArmor: The Practice of Integrating Provenance Analysis into Endpoint Detection and Response Systems". [[paper]](https://www.ndss-symposium.org/wp-content/uploads/prism2026-2.pdf)
 
 - **[TOSEM’25]** Junlin Liu, Mengyu Yao, **Shaofei Li**, Dingyu Yang, Zheshun Wu, Xiaojun Qu, Ziqi Zhang, Ding Li, Yao Guo, Xiangqun Chen. "Not All Exceptions Are Created Equal: Triaging Error Logs in Real World Enterprises" (CCF-A)
 
@@ -74,6 +76,8 @@ AEC: CCS'25
 
 Internship Experience
 ======
+
+Ant Group, Beijing, China (Sep, 2025 -- Jan, 2026)
 
 Meituan, Beijing, China (Jun, 2024, -- Sep, 2024)
 
