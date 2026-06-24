@@ -29,11 +29,13 @@ Selected Publications
 - **[NDSS’24]** **Shaofei Li**, Feng Dong, Ding Li, Xusheng Xiao, Haoyu Wang, Fei Shao, Jiedong Chen, Yao Guo, Xiangqun
 Chen. ”NODLINK: An Online System for Fine-Grained APT Attack Detection and Investigation”. (CCF-A, Acceptance rate: 140/694=20.2%)[[paper]](https://www.ndss-symposium.org/wp-content/uploads/2024-204-paper.pdf) [[code]](https://github.com/PKU-ASAL/Simulated-Data/tree/main) [[slides]](https://www.ndss-symposium.org/wp-content/uploads/2024-204-slides.pdf)
 
-
-
+- **[TOSEM'26]** **Shaofei Li**, Ruqin Li, Ziqi Zhang, Zhenkai Liang, Yao Guo, Xiangqun Chen, Ding Li. "A General Framework for Defending against Query-based Black-box Attacks on Neural Network Models". (CCF-A) [[paper]](https://dl.acm.org/doi/10.1145/3820765)
 
 Other Publications
 ======
+- **[USENIX SEC'26]** Mengyu Yao, Ziqi Zhang, Ning Luo, **Shaofei Li**, Yifeng Cai, Xiangqun Chen, Yao Guo, and Ding Li. "Connect the Dots: Knowledge Graph–Guided Crawler Attack on
+Retrieval-Augmented Generation Systems". (CCF-A) 
+
 - **[NDSS’26]** Yuhan Meng, **Shaofei Li**, Jiaping Gui, Peng Jiang, Ding Li. "KnowHow: Automatically Applying High-Level CTI Knowledge for  Interpretable and Accurate Provenance Analysis". (CCF-A) [[paper]](https://www.ndss-symposium.org/wp-content/uploads/2026-s199-paper.pdf) [[code]](https://github.com/myh0301/KNOWHOW)
 
 - **[NDSS’26W]** **Shaofei Li**, Jiandong Jin, Hanlin Jiang, Yi Huang, Yifei Bao, Yuhan Meng, Fengwei Hong, Zheng Huang, Peng Jiang, Ding Li. "SysArmor: The Practice of Integrating Provenance Analysis into Endpoint Detection and Response Systems". [[paper]](https://www.ndss-symposium.org/wp-content/uploads/prism2026-2.pdf)
