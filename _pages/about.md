@@ -16,7 +16,7 @@ In my spare time, I enjoy playing basketball, badminton and cycling. I'm a membe
 Research Interests
 ======
 1. **Cybersecurity**: Advanced Persistent Threats Detection [CCS'23, NDSS'24, NDSS’25W, NDSS'26]
-2. **Security for AI System**: Black-box Attack Detection [S&P'25]
+2. **Security for AI System**: Black-box Attack Detection [S&P'25, TOSEM'26]
 3. **Financial Security**: Promotion Abuse Fraud Detection [S&P'26]
 4. **Software Security**: Control Flow Analysis [TOSEM'23]
 
